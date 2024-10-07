@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Library</title>
+        <link rel="icon" href="Logo/book.png" />
+        <link rel="stylesheet" href="CSS/styles.css" />
+        <style>
+            @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+        </style>
+    </head>
+    <body>
+        <div class="title">
+            <div class="library_title">Library</div>
+        </div>
+        <div class="main" style="position: relative">
+            <div class="add_new_book_btn flex_center">
+                <img src="Logo/plus.png" alt="" />
+                <p>add new book</p>
+            </div>
+
+            <div class="books_container">
+                <div class="no_books">
+                    There is not books to display ! <br />
+                    click on
+                    <span style="text-decoration: underline">
+                        add new books
+                    </span>
+                </div>
+            </div>
+            <div class="gray_bg absolute_center"></div>
+            <form class="new_book_form flex_center absolute_center">
+                <div
+                    style="
+                        text-align: center;
+                        margin-bottom: 10px;
+                        font-size: 1.3em;
+                        font-weight: 600;
+                    "
+                >
+                    Add new Book
+                </div>
+                <div class="error_duplicated">This book is Alredy Exists</div>
+                <div class="input_item">
+                    <input
+                        data-input-type="title"
+                        type="text"
+                        placeholder="title"
+                    />
+                    <div class="messing_data">mesing data</div>
+                </div>
+                <div class="input_item">
+                    <input
+                        data-input-type="author"
+                        type="text"
+                        placeholder="authore"
+                    />
+                    <div class="messing_data">mesing data</div>
+                </div>
+                <div class="input_item">
+                    <input
+                        data-input-type="nbr_pages"
+                        type="number"
+                        placeholder="number of pages"
+                    />
+                    <div class="messing_data">mesing data</div>
+                </div>
+                <div class="readed_input flex_center">
+                    <div class="readed_input_text">have you Read it ?</div>
+                    <input
+                        data-input-type="readed"
+                        type="checkbox"
+                        placeholder="title"
+                    />
+                </div>
+
+                <button type="submit">add</button>
+            </form>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>

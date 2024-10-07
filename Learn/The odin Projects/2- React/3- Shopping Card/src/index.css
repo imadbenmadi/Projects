@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.star {
+  font-size: 24px; /* Adjust the size as needed */
+  color: gold;    /* Set the color of the stars */
+}
+
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
+.swiper {
+  width: 600px;
+  height: 300px;
+}

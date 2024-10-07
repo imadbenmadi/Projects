@@ -1,0 +1,121 @@
+/* font from google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;700;800&display=swap');
+
+/* color var */
+:root {
+    --black: #272d3b;
+    --red: #ed176f;
+    --coral: #f7817f;
+    --gradient: linear-gradient(90deg, var(--red), var(--coral));
+}
+
+html {
+    font-family: 'Nunito', sans-serif;
+    scroll-behavior: smooth;
+    font-size: 70%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    transition: all .3s;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+}
+*::selection{
+    color: white;
+    background-color: var(--red);
+}
+header {
+    background: var(--black);
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 4rem;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+header a {
+    color: white;
+}
+
+header nav a:hover {
+    color: var(--coral);
+}
+
+header>a {
+    font-size: 25px;
+    color: white;
+}
+
+header>a::first-letter {
+    color: var(--coral);
+    font-size: 30px;
+}
+
+nav {
+    display: flex;
+    gap: 2rem;
+    font-size: 20px;
+    align-items: center;
+}
+
+#menu-bar {
+    display: none;
+    color: white;
+    font-size: 5rem;
+    cursor: pointer;
+}
+
+/* medai queryies */
+@media (max-width:991px) {
+    html {
+        font-size: 40%;
+    }
+
+    header {
+        padding: 1.5rem 2rem;
+    }
+}
+
+@media (max-width:768px) {
+    #menu-bar {
+        display: flex;
+        align-items: center;
+    }
+
+    header nav {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 100%;
+        background: var(--black);
+        padding: 2rem 5rem;
+        display: block;
+        border-top: 1px solid #3b3b3b;
+        clip-path: polygon(0% 0%,100% 0%,100% 0%,0% 0%);
+    }
+    header nav.nav-path{
+        clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 100%);
+    }
+
+    header nav a {
+        padding: 1rem;
+        text-align: center;
+        background: var(--gradient);
+        border-radius: 5px;
+        margin: 1rem 0;
+        display: block;
+    }
+    header nav a:hover{
+        color: var(--black);
+    }
+    .fa-times{
+        rotate: 180deg;
+    }
+}

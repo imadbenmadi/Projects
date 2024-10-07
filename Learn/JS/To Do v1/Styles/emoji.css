@@ -1,0 +1,29 @@
+.emoji{
+    display: none;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: absolute;
+    left: 0%;
+    bottom: 60px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px 0 black ;
+    border-radius: 5px;
+    width: 383px;
+    height: 350px;
+    overflow-y: auto;
+    user-select: none;
+}
+.emoji_show{
+    display: flex;
+}
+
+.emoji_item{
+    padding: 15px;
+    cursor: pointer;
+    font-size: 20px;
+}
+@media (max-width: 424px) {
+    .emoji{
+        width: 250px;
+    }
+}

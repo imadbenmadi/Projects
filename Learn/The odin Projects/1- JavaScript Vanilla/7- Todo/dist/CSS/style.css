@@ -1,0 +1,220 @@
+:root{
+    --main_bc : rgb(0, 0, 0);
+    --second_bc : rgba(0, 0, 0, 0.856);
+    --main_color : #ffffffc3;
+    --second_color : #3f3fffc9;
+}
+body {
+  margin: 0;
+  padding: 0;
+  /* background-color: var(--second_bc); */
+  font-family: "Rubik", sans-serif;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box;
+  color: var(--main_color);
+} 
+.flex_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+input ,button{
+    outline: none;
+  border: 2px solid var(--main_bc);
+  padding: 0;
+  margin: 0;
+  color: var(--main_bc);
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  font-family: "Rubik", sans-serif;
+    font-size: 1em;
+}
+
+/* nav */
+.nav_bar{
+    padding: 10px;
+    justify-content: space-between;
+    background-color: var(--second_bc);
+    border-bottom: 2px solid var(--second_color);
+}
+
+.page_title_logo img,
+.night_mood img{
+    width: 40px;
+}
+.toggle_menu_btn{
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.toggle_menu_btn{
+    border:2px solid var(--main_color);
+}
+.toggle_menu_btn span{
+    font-size: 1.7em !important;
+
+}
+.page_title_text{
+    font-size: 2em;
+    font-weight: 600;
+    color: var(--second_color);
+}
+.page_title_text span{
+    color: var(--main_color);
+    font-size: 0.9em;
+    margin-left: 6px ;
+}
+/* main */
+.main{
+    display: flex;
+    min-height: calc(100vh - 66px);
+}
+.menu{
+    flex: 30%;
+    padding-top: 30px;
+    background-color: var(--second_bc);
+    flex-direction: column;
+    justify-content: flex-start;
+    /* overflow-y: auto; */
+    user-select: none;
+    /* gap: 100px; */
+}
+.content{
+    flex: 70%;
+    background-color: var(--main_bc);
+
+}
+
+.menu_container{
+    width: 80%;
+    user-select: none;
+}
+.menu_sub_title{
+    color: var(--main_color);
+    padding-bottom: 15px;
+    font-size: 2em;
+    font-weight: 600;
+    border-bottom: 2px solid var(--main_color);
+}
+.title_porject{
+    margin-bottom: 20px;
+}
+/* .menu_items{
+    margin-top: 30px;
+} */
+.menu_item_img {
+    width: 25px;
+    margin-right: 10px;
+}
+.menu_btn,.Project_item {
+    padding: 10px;
+    margin: 15px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: flex-start;
+}
+
+
+.active_menu_item{
+    background-color: var(--second_color) !important;
+    cursor: default !important;
+}
+.active_menu_item:hover{
+    background-color: var(--second_color) !important;
+}
+.menu_btn:hover,
+.Project_item:hover{
+    background-color: #ffffff54;
+}
+
+
+
+
+.add_project{
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+
+
+.add_project img{
+    width: 30px;
+    margin-right: 10px;
+}
+.add_project:hover{
+    background-color: #ffffff54;
+}
+.menu_container form{
+    display: none;
+    opacity: 0;
+    max-height: 0px ;
+    transition: max-height 0.35s ease,opacity 0.35s ease;
+}
+.menu_container form button{
+    cursor: pointer;
+
+}
+.menu_container form input{
+    width: 180px;
+}
+.Project_item{
+    justify-content: space-between;
+}
+
+
+
+
+/* Menu */
+.content{
+    padding-top: 15px;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.Project_tasks{
+    display: none;
+}
+.add_new_task{
+    cursor: pointer;
+    font-size: 1.6em;
+}
+.add_new_task img{
+    width: 25px;
+    margin-right: 5px;
+}
+.task_form{
+    display: none;
+    /* display: flex; */
+    flex-direction: column;
+    padding: 20px 40px;
+    background: rgb(63 63 63 / 79%) !important;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    transform: scale(0);
+    transition: transform 0.25s ease ;
+}
+.task_form input{
+    margin-bottom: 10px;
+}
+.task_form input{
+    cursor: pointer;
+
+}
+
+
+/* Tasks */
+.Project_tasks{
+    width: 70%;
+}
+.task_element{
+    width: 100%;
+    padding: 20px;
+    margin: 15px 0px;
+    border: 2px solid var(--main_color);
+    border-radius: 10px;
+}

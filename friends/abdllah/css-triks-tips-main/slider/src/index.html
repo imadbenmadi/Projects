@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> sliders </title>
+    <!-- css file  -->
+    <link rel="stylesheet" href="./style.css">
+    <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <!-- js file swiper js  -->
+      <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+</head>
+<body>
+    <section>
+        
+    </section>
+      <!-- Demo styles -->
+</head>
+
+<body class="flex justify-center items-center h-[100vh]">
+  <div class="swiper-container max-w-[520px] max-h-[520px] bg-white shadow-lg rounded-lg">
+    <div class="swiper myswiper">
+      <div class="swiper-wrapper relative">
+        <!-- slider 1  -->
+        <div class="swiper-slide ">
+          <div class="img-slider h-[250px]">
+            <img src="/img/spain-1.jpg" class="w-full h-full object-cover rounded-lg" alt="">
+          </div>
+          <div class="slider-contnet p-5 bg-white">
+            <h1 class=" font-bold rounded">Abdellah Becherair</h1>
+            <p class="py-5">Front end Developer (tailwind css, react js) </p>
+          </div>
+        </div>
+        <!-- slider 2  -->
+        <div class="swiper-slide ">
+          <div class="img-slider h-[250px]">
+            <img src="/img/spain-2.jpg" class="w-full h-full object-cover rounded-lg" alt="">
+          </div>
+          <div class="slider-contnet p-5 bg-white">
+            <h1 class=" font-bold rounded">Kobchi bouzid</h1>
+            <p class="py-5" >Backend Developer (c#, ASP.net) </p>
+          </div>
+        </div>
+  
+        <!-- slider 3  -->
+        <div class="swiper-slide ">
+          <div class="img-slider h-[250px]">
+            <img src="/img/spain-5.jpg" class="w-full h-full object-cover rounded-lg" alt="">
+          </div>
+          <div class="slider-contnet p-5 bg-white">
+            <h1 class=" font-bold rounded">Abdejalil Saf</h1>
+            <p class="py-5" >Front end developer (bootstarp ,react js) </p>
+          </div>
+        </div>
+        <!-- pagination  -->
+        <div class="swiper-pagination"></div>
+      </div>
+    </div>
+  </div>
+  <script>
+    const swiper = new Swiper('.swiper',{
+      loop:true,
+      effect: 'fade',
+      pagination:{
+        el: '.swiper-pagination',
+        clickable:true,
+      },
+      navigation:{
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      }
+      
+
+    });
+  </script>
+</body>
+</html>

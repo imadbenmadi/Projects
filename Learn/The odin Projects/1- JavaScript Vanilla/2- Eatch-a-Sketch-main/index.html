@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eatch-a-Sketch</title>
+    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="icon" href="Logo/drawing.png">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="menu">
+            <div class="erase_section">
+                <div class="erase">
+                    <div class="erase_btn">
+                        <img src="Logo/eraser.png" alt="">
+                        <div class="erase_btn_title sub_title">Erase Mood</div>
+                    </div>
+                </div>
+                <div class="clear">
+                    <div class="clear_btn">
+                        <img src="Logo/cleaning.png" alt="">
+                        <div class="clear_btn_title sub_title">Clear Every Thing</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="resize">
+                <div class="resize_title">Resize</div>
+                <input type="range" min="16" max="48" step="8" value="16">
+                <div class="resize_value">16x16</div>
+                <div class="resize_btn" >Generate</div>
+            </div>
+
+
+
+            <div class="color">
+                <div class="change_color_title">Change the Color</div>
+                <input type="color" value="#0000ff">
+                <div class="color_value">#0000ff</div>
+            </div>
+
+            <div class="random_color">
+                <div class="random_color_title">Random Color</div>
+                <div class="random_color">
+                    <img src="Logo/random.png" alt="">
+                </div>
+            </div>
+        </div>
+
+
+
+        
+
+        <div class="container">
+             <div class="elements "></div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

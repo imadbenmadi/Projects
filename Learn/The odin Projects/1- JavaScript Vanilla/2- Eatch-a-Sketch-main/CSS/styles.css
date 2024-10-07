@@ -1,0 +1,236 @@
+
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.menu {
+    flex: 30%;
+    background-color: rgb(169, 169, 169);
+    height: 100%;
+}
+
+.container {
+    flex: 70%;
+    background-color: black;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elements {
+    background-color: rgb(105, 105, 105);
+    display: flex;
+    max-width: 700px;
+    max-height: 600px;
+    overflow: auto;
+}
+
+.grid_element {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    margin: 5px;
+}
+
+/* the menu Elements */
+.erase_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.erase,
+.clear_btn {
+    margin: 20px 5px 0px 5px;
+    padding: 10px;
+    position: relative;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.erase img,
+.clear img {
+    width: 50px;
+    padding: 10px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.clear img:hover,
+.erase img:hover {
+    transform: scale(1.3);
+}
+
+.sub_title {
+    position: absolute;
+    bottom: -30px;
+    left: 0;
+    text-align: center;
+    width: 100px;
+    background-color: #fff;
+    border-radius: 5px;
+    transform: translateY(-10px);
+    opacity: 0;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.show_title {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.resize {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.resize_title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.resize_btn {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 10px 0 0 0;
+    transition: padding-left 0.2s ease,padding-right 0.2s ease;
+}
+.resize_btn:hover{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 60px;
+}
+
+.change_color_title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+input[type="color"] {
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    /* Change the cursor to a pointer on hover */
+}
+.color_value {
+    margin-top: 10px;
+}
+
+
+
+
+
+
+.random_color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.random_color_title {
+    font-size: 1.2em;
+    font-weight: bold;
+
+}
+
+.random_color img{
+    width: 40px;
+    cursor: pointer;
+}
+
+
+
+
+
+@media (max-width: 902px) {
+    .resize{
+        display: none;
+    }
+    .main{
+        flex-direction: column;
+    }
+    .menu{
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+        max-height: 100px;
+    }
+    .container{
+        width: 100%;
+    }
+    .elements{
+        max-height: 500px;
+    }
+    .color{
+        margin-bottom: 0;
+    }
+    .random_color_title,.change_color_title{
+        font-size: 1em;
+    }
+    .color{
+        margin-right: 5px;
+        padding: 0 5px;
+        border-left:1px solid rgb(76, 76, 76);
+        border-right: 1px solid rgb(76, 76, 76);
+    }
+    .clear img:hover,
+    .erase img:hover {
+        transform: scale(1);
+        
+    }
+    .sub_title{
+        display: none;
+    }
+}
+@media (max-width: 488px) {
+    .erase,
+    .clear_btn{
+        margin: 0;
+    }
+    input[type="color"] {
+        width: 30px;
+        height: 30px;
+    }
+    .erase img,
+    .clear img {
+        width: 40px;
+        padding: 0;
+    }
+    .grid_element{
+        width: 10px;
+        height: 10px;
+    }
+}

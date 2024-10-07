@@ -1,0 +1,34 @@
+body {
+    -webkit-tap-highlight-color: transparent;
+    font-family: "Rubik", sans-serif;
+}
+input,textarea {
+    background-color: #c7c7c74e;
+    border: none;
+    outline: none;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: rgba(0, 0, 0, 0.279);
+}
+.message-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.message-table th,
+.message-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.message-table th {
+    background-color: #f0f0f0;
+}

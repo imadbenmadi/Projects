@@ -1,0 +1,96 @@
+body{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    user-select: none;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.container{
+    width: 55vh;
+    /* height: 75vh; */
+    border-radius: 10px;
+    background-color: rgb(151, 152, 255);
+}
+.screen{
+    width: 90%;
+    margin: 10px auto;
+    height: 90px;
+    background-color: #bebebe;
+    border-radius: 10px;
+
+}
+.previos , .new{
+    position: absolute;
+    right: 10px;
+    font-style: 2em;
+}
+.previos{
+    top: 10px;
+}
+.new{
+    bottom: 10px;
+}
+
+
+
+.clear_delete{
+    height: 15%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.clear_delete div {
+    width: 40%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.clear_btn{
+    background-color: rgb(109, 109, 109);
+    transition: background-color 0.2s ease;
+}
+.clear_btn:hover{
+    background-color: #d8d8d8;
+}
+
+
+.delete_btn{
+    background-color: rgb(241, 85, 85);
+    transition: background-color 0.2s ease;
+}
+.delete_btn:hover{
+    background-color: #ff7d7d;
+}
+
+
+.main_bottons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    margin: 20px;
+    
+}
+.main_bottons div{
+    background-color: #757575;
+    cursor: pointer;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    transition: background-color 0.2s ease;
+}
+.main_bottons div:hover{
+    background-color: #363636;
+
+}

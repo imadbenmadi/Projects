@@ -1,0 +1,205 @@
+:root{
+    --second_white : rgb(215, 215, 215);
+    --gray-bg : rgba(0, 0, 0, 0.71);
+}
+body{
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    -webkit-tap-highlight-color: transparent;
+    tap-highlight-color: transparent;
+    outline: none;
+    user-select: none;
+}
+.flex_center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.absolute_center{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.title{
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 black;
+    padding: 20px;
+}
+.library_title{
+    font-size: 1.8em;
+    font-weight: 600;
+}
+.main{
+    min-height: calc(100vh - 99px);
+    padding-top: 25px;
+    background-color: var(--second_white);
+}
+.add_new_book_btn{
+    width: fit-content;
+    padding: 5px;
+    margin: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.1989s ease;
+}
+.add_new_book_btn:hover {
+    background-color: var(--second_white);
+}
+.add_new_book_btn img{
+    width: 35px;
+    padding-right: 10px;
+}
+.gray_bg{
+    display: none;    
+    width: 100%;
+    height: 100%;
+    background-color: var(--gray-bg);
+    z-index: 99;
+    opacity: 0;
+    transition: opacity .4s ease;
+}
+
+.new_book_form{
+    display: none;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 black;
+    z-index: 100;
+    background-color: var(--second_white);
+    padding: 20px;
+    opacity : 0;
+    transition:opacity .4s ease;
+}
+.show_new_book_form,
+.show_gray_bg{
+    opacity: 1;
+}
+.input_item{
+    position: relative;
+    width: fit-content;
+}
+.messing_data{
+    display: none;
+    position: absolute;
+    top: 4px;
+    left: -112px;
+    background-color: red;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+.messing_data::after{
+    content: "";
+    position: absolute;
+    top: 9px;
+    right: -9px;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent transparent red;
+}
+.new_book_form input[type="text"],
+.new_book_form input[type="number"]{
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 80%;
+    outline: 2px solid black;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.new_book_form input[type="text"]::placeholder,
+.new_book_form input[type="number"]::placeholder{
+    font-size: 1.3em;
+}
+.readed_input {
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+.readed_input_text{
+    font-weight: 500;
+    text-align: center;
+}
+.new_book_form button{
+    border: none;
+    background: #00ff00;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.3em;
+}
+
+.books_container{
+    margin: 10px 10px 0 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    
+}
+.no_books{
+    color: var(--gray-bg);
+    text-align: center;
+}
+.books_container div{
+    width: 65%;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+.error_duplicated{
+    display: none;
+    text-align: center;
+    color: red;
+    margin-bottom: 10px;
+}
+.book_card {
+    flex-direction: column;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid var(--gray-bg);
+}
+.not_readed_card,.readed_card,.Delete_book_btn{
+    padding: 15px 5px; 
+    cursor: pointer;
+}
+.not_readed_card{
+    background-color: rgb(255, 51, 51);
+}
+.readed_card{
+    background-color: #00ff00;
+}
+.Delete_book_btn{
+    background-color: var(--second_white);
+}
+
+
+
+
+
+
+
+@media (min-width : 671px) {
+    .new_book_form{
+        width: 250px;
+    }
+    .new_book_form input[type="text"],
+    .new_book_form input[type="number"]{
+        margin-bottom: 20px;
+    }
+    
+    
+}
+@media (max-width : 444px) {
+    .new_book_form {
+            width: 200px;
+        }
+    input[data-input-type="nbr_pages"]::placeholder{
+        font-size: 0.95em !important;
+    }
+    .messing_data{
+        font-size: 13px;
+        left: -66px;
+        width: 50px;
+    }
+}
