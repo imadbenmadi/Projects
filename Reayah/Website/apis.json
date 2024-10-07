@@ -1,0 +1,16 @@
+{
+    "url": "https://api.reayahmed.com/patient/<str:pk>/bookings/",
+    "method": "GET",
+    "description": " List My Bookings",
+    "Note": "pk is id patient "
+},
+{
+    "url": "https://api.reayahmed.com/patient/<str:pk>/booking/<str:pk_booking>/",
+    "method": "POST",
+    "description": " Create appointment and conected with booking",
+    "Note": "pk is id patient | pk_booking is id booking",
+    "data": {
+        "appointment_reason": "string",
+        "type_person": "string"
+    }
+}

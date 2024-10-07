@@ -1,0 +1,20 @@
+
+<div
+    className={
+        openNav
+            ? "w-[65%] h-screen   flex items-center justify-center"
+            : "w-[85%]  h-screen flex items-center justify-center"
+    }
+    >
+    <span className="loader"></span>
+</div>
+
+
+----------------
+<div className=" w-[80%] h-screen flex items-center justify-center">
+    <span className="loader"></span>
+</div>
+
+
+-------------------
+<span className="small-loader  w-full m-auto"></span>

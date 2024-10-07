@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;500;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&display=swap');
+
+body {
+    /* font-family: "Outfit", sans-serif; */
+    font-family: "Darker Grotesque", sans-serif;
+}
+#root {
+    /* font-family: "Outfit", sans-serif; */
+    font-family: "Darker Grotesque", sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    overflow-wrap: normal;
+}
+* {
+    font-family: "Outfit", sans-serif;
+}
+.cardHover {
+    transition: transform 0.3s ease-in-out;
+}
+
+.cardHover:hover {
+    transform: scale(1.1); /* Increase scale on hover */
+}
+
+/* Optionally, you can add additional styling to make the hover effect more noticeable */
+.cardContainer {
+    overflow: hidden;
+}
+.loader {
+    width: 40px;
+    height: 40px;
+    border: 5px solid #353535;
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+}
+
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.triangle-up {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid gray; /* Adjust color as needed */
+    position: absolute;
+    top: -10px; /* Adjust position as needed */
+    right: 10px; /* Adjust position as needed */
+}
+
+.small-loader {
+    width: 30px;
+    height: 30px;
+    border: 3px solid #353535; /* Adjust border size as needed */
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+}
+
+.custom-overflow::-webkit-scrollbar {
+    width: 8px; /* Adjust the width as needed */
+    height: 8px; /* Adjust the width as needed */
+}
+
+.custom-overflow::-webkit-scrollbar-thumb {
+    background-color: #078343; /* Change the color as needed */
+    border-radius: 999px; /* Makes the thumb round */
+}
+
+.custom-overflow::-webkit-scrollbar-track {
+    background-color: #cfd8dc; /* Change the color as needed */
+}
