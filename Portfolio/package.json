@@ -1,0 +1,35 @@
+{
+  "name": "@imadb/portfolio",
+  "version": "1.0.0",
+  "description": "Benmadi imed eddine portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier -write .",
+    "lint": "next lint",
+    "deploy": "next build && npx gh-pages -d out"
+  },
+  "keywords": [],
+  "author": "Benmadi imad",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@vercel/analytics": "^1.1.2",
+    "framer-motion": "^11.0.3",
+    "next": "^14.1.0",
+    "nodemailer": "^6.9.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.1.0",
+    "gh-pages": "^6.1.1",
+    "prettier": "^3.2.4"
+  }
+}
