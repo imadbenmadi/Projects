@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.big {
+  width: 100%;
+  height: 200vh;
+  background-color: black;
+}
+.text{
+    font-family: sans-serif;
+    color: aliceblue;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+}
+.image_container{
+    display: flex;
+    justify-content: center;
+}
+img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+.my-element {
+  opacity: 0;
+  transition: opacity 1s ease;
+}
+.my-element.visible {
+  opacity: 1;
+}
