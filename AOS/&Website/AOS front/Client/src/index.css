@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+root {
+  line-height: 1.5;
+  font-weight: 400;
+  font-family: "Outfit", sans-serif;
+  font-family: "Tajawal", sans-serif;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #030303;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.home-image {
+  z-index: -1;
+  /* Adjust the gradient stops as needed */
+  mask-image: linear-gradient(180deg, white 60%, transparent 100%);
+}
+body::-webkit-scrollbar {
+  width: 0.5em;
+  border-radius: 50px;
+}
+
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: none;
+}
+.scrollProduct::-webkit-scrollbar {
+  width: 0.5em;
+  height: 0.5em;
+  border-radius: 50px;
+  padding-right: 20px;
+}
+
+.scrollProduct::-webkit-scrollbar-track {
+  border-radius: 50px;
+  width: 5px;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.scrollProduct::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: none;
+  border-radius: 50px;
+}
+@media (min-width: 640px) {
+  table {
+    display: inline-table !important;
+  }
+
+  thead tr:not(:first-child) {
+    display: none;
+  }
+}
+
+td:not(:last-child) {
+  border-bottom: 0;
+}
+
+th:not(:last-child) {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+.slick-prev,
+.slick-next {
+  right: 0 !important;
+  width: 100px !important;
+  height: 100px !important;
+  border-radius: 50%;
+  z-index: 1 !important;
+  /* opacity: 0; */
+}
+
+/* .slick-prev::before {
+  width: 100px;
+  height: 100px;
+  content: "";
+  
+  color: black;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid #ffffff;
+
+  /* opacity: 0 !important; */
+/* } */
+.slick-prev,
+.slick-next {
+  font-size: "4px" !important;
+  line-height: 0 !important;
+  position: absolute !important;
+  top: 50% !important;
+  display: block;
+  width: "121px" !important;
+  height: "100px" !important;
+  padding: 0 0 !important;
+  transform: translate(0, -50%);
+  cursor: pointer;
+  color: black !important;
+  border: none !important;
+  outline: none;
+  background: rgba(0, 0, 0, 0.196) !important;
+  z-index: 1 !important;
+}
