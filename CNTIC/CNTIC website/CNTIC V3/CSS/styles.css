@@ -1,0 +1,236 @@
+:root {
+    --main_color: #2383FF;
+    --secondary_color: #2382ff37;
+}
+body {
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    user-select: none;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.flex_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    padding-left: 80px;
+    padding-right: 10px;
+}
+.section_title{
+    margin: 20px 10px;
+    font-size: 2em;
+    font-weight: 600;
+    color: var(--main_color);
+}
+/* Nav Bar */
+.nav_bar{
+    position: fixed;
+    flex-direction: column;
+    margin-left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.nav_bar>div{
+    background-color: var(--secondary_color);
+    margin-bottom: 35px;
+    cursor: pointer;
+    padding: 6px;
+    border-radius: 25px;
+}
+.nav_bar img{
+    width: 30px;
+}
+.nav_bar_desc{
+    display: none;
+}
+
+
+/* Home Page */
+
+.home_page_content{
+    flex-direction: column;
+    margin-top: 50px;
+    /* height: 450px; */
+}
+.home_page_title{
+    padding-top: 25px;
+    font-size: 3em;
+    font-weight: 600;
+    letter-spacing: 6px;
+    /* text-align: center; */
+}
+.home_page_desc{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+}
+.cntic_logo{
+    margin-top: 10px;
+}
+.cntic_logo img{
+    width: 250px;
+}
+
+.join_us_section{
+    margin-bottom: 30px;
+    flex-direction: column;
+}
+.join_us_section .join_us_section_desc{
+    background-color: var(--secondary_color);
+    padding: 20px;
+    border-radius: 25px;
+
+}
+.join_us_section_title{
+    display: block;
+    font-size: 1.1em;
+    font-weight: 600;
+    text-decoration: underline;
+    color: var(--main_color);
+    margin-bottom: 5px;
+}
+.join_btn{
+    cursor: pointer;
+    margin-top: 25px;
+    background-color: var(--main_color);
+    color:  #fff;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+@media (max-width: 557px) {
+    .home_page_content {
+        margin-top: 20px;
+    }
+    .home_page_title{
+        font-size: 2.3em;
+    }
+    .home_page_desc{
+        width: 100%;
+        margin-top: 20px;
+        font-size: 1em;
+    }
+}
+
+
+/* Events Page */
+.view_more_btn{
+    text-decoration: underline;
+    text-decoration-color: var(--main_color);
+    /* margin-top: 20px; */
+    font-size: 1.2em;
+}
+.Events_page_btn div{
+    margin-right: 10px;
+    cursor: pointer;
+}
+.Events_page_btn img{
+    width: 15px;
+}
+
+
+
+.Posts{
+    gap: 10px;
+}
+.Post_element{
+    border: 3px solid var(--main_color);
+    border-radius: 20px;
+    width: 250px;
+    padding: 10px;
+}
+.post_block_1>div,.post_block_2>div{
+    margin-bottom: 10px;
+}
+.Post_element .part_1 {
+    align-items: flex-start;
+}
+.event_name{
+    font-size: 1.2em;
+    padding: 17px;
+}
+.event_img img {
+    width: 155px;
+    border-radius: 20px;
+}
+.day{
+    text-align: end;
+    color : rgb(138 138 138);
+    font-size: 0.9em;
+}
+.event_desc_readMore{
+    text-decoration: underline;
+    cursor: pointer;
+}
+@media (max-width: 652px) {
+    .Post_element {
+        width: 150px;
+    }
+
+    .event_img img {
+        width: 150px;
+        border-radius: 5px;
+    }
+
+    .part_1 {
+        flex-direction: column;
+    }
+
+    .event_name {
+        padding: 5px;
+    }
+}
+@media (max-width: 470px) {
+    .Post_element{
+        width: 100px;
+    }
+    .event_img img {
+        width: 100px;
+        border-radius: 5px;
+    }
+    .part_1{
+        flex-direction: column;
+    }
+    .event_name{
+        padding: 5px;
+    }
+}
+
+
+
+/* Members */
+.Members_page{
+    margin-top: 50px;
+}
+.Members{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+.member_item{
+    flex-direction: column;
+}
+.member_item img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+/* contact */
+.Contact{
+    margin-top: 70px;
+}
+.Contact img{
+    width: 50px;
+}
+.social_media{
+    gap: 20px;
+}

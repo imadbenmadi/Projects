@@ -1,0 +1,25 @@
+on:
+  push:
+jobs:
+  deploy:
+ 
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: SSH Remote Commands
+      # You may pin to the exact commit or the version.
+      # uses: appleboy/ssh-action@f9010ff7f1bbd7db1a0b4bab661437550cea20c0
+        uses: appleboy/ssh-action@v0.1.5
+        with:
+          key : ${{secrets.KEY}}
+          passphrase : ${{secrets.PASSPHRASE}}
+          host: ${{secrets.HOST}}
+          username: ${{secrets.USER}}
+          script: | 
+            # if they demand the password, you can use => ilovecntic2024
+            # please do npm run build in local host before pushing to the repository
+            source /home/cnticc73/nodevenv/test/Portfoilo/18/bin/activate && cd /home/cnticc73/test/Portfoilo
+            git reset --hard
+            git pull
+            npm run build
+            cp -r  dist/* ~/public_html/

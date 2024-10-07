@@ -1,0 +1,21 @@
+.parkpark::-webkit-scrollbar {
+  width: 4px;
+  border-radius: 5px;
+}
+
+.parkpark::-webkit-scrollbar-track {
+  border-radius: 5px;
+}
+
+.parkpark::-webkit-scrollbar-thumb {
+  background-color: rgb(156, 156, 156);
+  border-radius: 5px;
+}
+#blorr {
+  width: 300px;
+  height: 300px;
+  background: rgba(20.19, 111.54, 234.46, 0.44);
+  filter: blur(100px);
+  position: absolute;
+  right: 0px;
+}

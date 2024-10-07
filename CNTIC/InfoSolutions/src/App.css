@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-overflow::-webkit-scrollbar {
+    width: 8px; /* Adjust the width as needed */
+    height: 8px; /* Adjust the width as needed */
+}
+
+.custom-overflow::-webkit-scrollbar-thumb {
+    background-color: #8b8b8b; /* Change the color as needed */
+    border-radius: 999px; /* Makes the thumb round */
+}
+
+.custom-overflow::-webkit-scrollbar-track {
+    background-color: #cfd8dc; /* Change the color as needed */
+}
+.loader {
+    width: 40px;
+    height: 40px;
+    border: 5px solid #353535;
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+}
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
