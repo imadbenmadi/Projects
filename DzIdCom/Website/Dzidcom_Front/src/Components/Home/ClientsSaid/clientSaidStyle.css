@@ -1,0 +1,75 @@
+.swiper-slide {
+  transition: transform 0.5s ease, opacity 0.5s ease;
+  /* opacity: 0.5; */
+  transform: translateZ(-200px);
+}
+
+.swiper-slide-active {
+  transform: scale(1.1) translateZ(50px);
+  opacity: 1;
+  transform: translateY(100px);
+}
+
+/* .swiper-slide-next,
+.swiper-slide-prev {
+  transform: translateZ(-200px) rotateY(30deg);
+  opacity: 0.75;
+} */
+
+/* .swiper-slide-next-next,
+.swiper-slide-prev-prev {
+  transform: translateZ(-400px) rotateY(60deg);
+  opacity: 0.5;
+} */
+
+.swiper-container-3d .swiper-slide-shadow-left,
+.swiper-container-3d .swiper-slide-shadow-right {
+  display: block;
+}
+/* Custom pagination container */
+.custom-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.pagination-dot {
+  width: 10px;
+  height: 10px;
+  background-color: #ccc;
+  border-radius: 50%;
+  margin: 0 5px;
+  transition: background-color 0.3s ease;
+}
+
+/* Active dot */
+.pagination-dot.active {
+  background-color: #000; /* Change to your desired active color */
+}
+
+/* Navigation arrows */
+.pagination-arrow {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #000; /* Change to your desired arrow color */
+  transition: color 0.3s ease;
+}
+
+/* Hover effect for arrows */
+.pagination-arrow:hover {
+  color: #000;
+  width: 20px;
+  /* Darker shade on hover */
+}
+
+/* Left arrow */
+/* .pagination-arrow.prev::before {
+  content: "\u25C0";} */
+
+/* Right arrow */
+/* .pagination-arrow.next::before {
+  content: "\u25B6";
+} */

@@ -1,0 +1,1606 @@
+[
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Login/Login.jsx",
+    "content": "Log in"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Login/Login.jsx",
+    "content": "Sign in to get started."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Login/Login.jsx",
+    "content": "email"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Login/Login.jsx",
+    "content": "password"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Login/Login.jsx",
+    "content": "Get Started"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Login/Login.jsx",
+    "content": "Don’t have an account?"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Login/Login.jsx",
+    "content": "Sign up"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "Create an account"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "Let’s get started your freelance journey."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "Teacher"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "Student"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "First Name"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "Last Name"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "email"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "password"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "Get Started"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "Already have an account?"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/Auth/Register/Register.jsx",
+    "content": "Sign in"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/ErrorElement.jsx",
+    "content": "Oops! An Error Occurred"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/ErrorElement.jsx",
+    "content": "Something went wrong on this page."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/ErrorElement.jsx",
+    "content": "Error Details:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/ErrorElement.jsx",
+    "content": "Please go back to the"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/ErrorElement.jsx",
+    "content": "home page"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/ImageLoader.jsx",
+    "content": "Loading..."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Achievement.jsx",
+    "content": "Our"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Achievement.jsx",
+    "content": "Achievements"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Achievement.jsx",
+    "content": "Leading Companies use the same courses to help their\n                        employees keep skills up"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Categories.jsx",
+    "content": "Our"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Categories.jsx",
+    "content": "Popular Categories"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Categories.jsx",
+    "content": "Various versions have evolved over the years"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/ContactPage.jsx",
+    "content": "Get in Touch"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/ContactPage.jsx",
+    "content": "Send us a message"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/ContactPage.jsx",
+    "content": "Message Sent!"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/ContactPage.jsx",
+    "content": "We'll get back to you soon."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/ContactPage.jsx",
+    "content": "Send Another Message"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/ContactPage.jsx",
+    "content": "Sending..."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/ContactPage.jsx",
+    "content": "Send Message"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CourseCard.jsx",
+    "content": "students)"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CourseCard.jsx",
+    "content": "hours"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CourseCard.jsx",
+    "content": "lessons"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CourseCard.jsx",
+    "content": "Enroll Now"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CourseDetails.jsx",
+    "content": "Course Overview"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CourseDetails.jsx",
+    "content": "Prerequisites"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CourseDetails.jsx",
+    "content": "Episode Guide"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CourseDetails.jsx",
+    "content": "Dive deep into the world of computer\n                                        science with this exciting episode!"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CourseDetails.jsx",
+    "content": "Enroll Now"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Courses.jsx",
+    "content": "Most Popular"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Courses.jsx",
+    "content": "Courses"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Courses.jsx",
+    "content": "Various versions have evolved over the years, sometimes by\n                    accident."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CTA.jsx",
+    "content": "Join one of the best"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CTA.jsx",
+    "content": "platforms for online"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CTA.jsx",
+    "content": "courses from all over the world"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CTA.jsx",
+    "content": "Various versions have evolved over the years"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/CTA.jsx",
+    "content": "Sign up for free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/FeedBack.jsx",
+    "content": "Students"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/FeedBack.jsx",
+    "content": "Feed back"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/FeedBack.jsx",
+    "content": "Various versions have evolved over the years, sometimes by\n                    accident."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/FeedBackCard.jsx",
+    "content": "Jenny Wilson"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/FeedBackCard.jsx",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.\n                    Architecto praesentium distinctio excepturi dolor, nihil\n                    unde exercitationem eligendi sit quam nemo cumque, tenetur\n                    hic, quasi atque. Fuga saepe vitae cum quasi!"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "About Us"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "We are a leading institution dedicated to providing\n                        quality education and fostering innovation."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Quick Links"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Home"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Achievements"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Courses"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Contact"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Contact"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Flex Edu"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "algeria, 16000"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Phone:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Email:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "Follow Us"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Footer.jsx",
+    "content": "FlexEdu . All rights\n                    reserved."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/HeroSection.jsx",
+    "content": "START TO SUCCESS"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/HeroSection.jsx",
+    "content": "Access to over"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/HeroSection.jsx",
+    "content": "courses\n                        from over"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/HeroSection.jsx",
+    "content": "Various versions have evolved over the years"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/landingPageComp/Rating.jsx",
+    "content": "Third star"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Not_Finished.jsx",
+    "content": "Oops! This Page is Not Finished Yet"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Not_Finished.jsx",
+    "content": "We're working hard to bring you something awesome. Check back later!"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Not_Finished.jsx",
+    "content": "Thank you for your patience!"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Not_Found (1).jsx",
+    "content": "Oops! This Page Not Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Not_Found (1).jsx",
+    "content": "The page you're looking for might be under construction or has been\n          moved."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Not_Found (1).jsx",
+    "content": "Double-check the URL or Go back to the"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Not_Found (1).jsx",
+    "content": "home page."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Contact/Contact.jsx",
+    "content": "Contact the Support"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Contact/Contact.jsx",
+    "content": "Reach out to us for any questions or support, we are here to\n                    help!"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Course.jsx",
+    "content": "Course Not Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "Course Not Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "The course you're looking for doesn't exist or has been\n                    removed."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "Enrollments"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "Videos"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "Created on"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "Enroll for free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "Buy Now"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "Course Videos"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "No videos available for this course."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Course/Not_Enrolled_view.jsx",
+    "content": "Course Reviews"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Courses.jsx",
+    "content": "Preparing your learning adventure..."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Courses.jsx",
+    "content": "Your Learning Odyssey"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Courses.jsx",
+    "content": "No Courses Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Courses_Card.jsx",
+    "content": "Enrolment"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Courses_Card.jsx",
+    "content": "Vedio"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Courses_Card.jsx",
+    "content": "No Vedios in this course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Courses_Card.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Courses_Card.jsx",
+    "content": "View"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Enrollment.jsx",
+    "content": "Course Not Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Enrollments"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Videos"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Created:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Payment Rejected"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Please resend the Payment screenshot or contact\n                            support."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Payment Process"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Step 1: Send Payment"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Please send the screenshot of the payment via\n                                email:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Email:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "CCP:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "CCP Name:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Email Title:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "RIP:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Step 2: Confirm Payment"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "CCP Number"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Not_pending_view.jsx",
+    "content": "Payment Screenshot"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Pending_View.jsx",
+    "content": "Videos"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Pending_View.jsx",
+    "content": "Please wait while our team validates your payment."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Pending_View.jsx",
+    "content": "Your CCP Number:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Courses/Enrollment/Pending_View.jsx",
+    "content": "No screenshot"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Contact"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Courses"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Summaries"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Purchased"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Logout"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Notifications"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Laptop_Nav_Items.jsx",
+    "content": "No Notifications"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Mobile_Nav.jsx",
+    "content": "Notifications"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Mobile_Nav.jsx",
+    "content": "No Notifications"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Contact"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Courses"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Summaries"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Purchased"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Logout"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Course.jsx",
+    "content": "No videos available for this course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Course.jsx",
+    "content": "Category:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Course.jsx",
+    "content": "Price:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Course.jsx",
+    "content": "Rating:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Course.jsx",
+    "content": "Students:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Course.jsx",
+    "content": "Course Meets"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Course.jsx",
+    "content": "No Meetings available for this course?."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Course.jsx",
+    "content": "Course Videos"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Course.jsx",
+    "content": "Reviews"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/CourseCard.jsx",
+    "content": "Enrolled"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/CourseCard.jsx",
+    "content": "Videos"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/CourseCard.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/CourseCard.jsx",
+    "content": "View"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/CourseProgress.jsx",
+    "content": "Course Progress"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/CourseProgress.jsx",
+    "content": "Remaining :"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/MeetCard.jsx",
+    "content": "Delete"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Purchased.jsx",
+    "content": "Courses"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Purchased.jsx",
+    "content": "No courses purchased yet"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Purchased.jsx",
+    "content": "Summaries"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Purchased.jsx",
+    "content": "No summaries purchased yet"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Review/Course_Review.jsx",
+    "content": "Rate this Course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Review/Summary_Review.jsx",
+    "content": "Rate this Summary"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Summary.jsx",
+    "content": "Category:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Summary.jsx",
+    "content": "Price:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Summary.jsx",
+    "content": "Rating:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Summary.jsx",
+    "content": "stars"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Summary.jsx",
+    "content": "Summary Content"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Summary.jsx",
+    "content": "No file uploaded"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Summary.jsx",
+    "content": "Your Review"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Summary.jsx",
+    "content": "Reviews"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/SummaryCard.jsx",
+    "content": "Enrolled"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/SummaryCard.jsx",
+    "content": "Pages"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/SummaryCard.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/SummaryCard.jsx",
+    "content": "View"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Vedio_Component.jsx",
+    "content": "No video data available"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Purchased/Vedio_Component.jsx",
+    "content": "Your browser does not support the video tag."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Student_Edit_Profile/Student_Edit_Profile.jsx",
+    "content": "Edit Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Student_Edit_Profile/Student_Edit_Profile.jsx",
+    "content": "Remove"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Student_Edit_Profile/Student_Edit_Profile.jsx",
+    "content": "Cancel"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Student_Edit_Profile/Student_Edit_Profile.jsx",
+    "content": "First Name"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Student_Edit_Profile/Student_Edit_Profile.jsx",
+    "content": "Last Name"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Student_Edit_Profile/Student_Edit_Profile.jsx",
+    "content": "Email"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Student_Edit_Profile/Student_Edit_Profile.jsx",
+    "content": "Edit Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Student_Profile/Student_Profile.jsx",
+    "content": "Student Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Student_Profile/Student_Profile.jsx",
+    "content": "Edit Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Enrollment.jsx",
+    "content": "Summary Not Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Created at:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Enrolment"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Payment Rejected"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Please resend the payment screenshot or contact\n                                support."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Payment Instructions"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Step 1: Send Payment Screenshot"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Please send the screenshot of the payment via email:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Email:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "CCP:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "CCP Name:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Use this title in the email:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "RIP:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Step 2: Upload Payment Proof"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Your CCP or RIP Number"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Cancel"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Not_pending_view.jsx",
+    "content": "Upload Payment Screenshot"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Pending_View.jsx",
+    "content": "Enrolment"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Pending_View.jsx",
+    "content": "Please wait while our team validates your payment"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Pending_View.jsx",
+    "content": "Purchase Information"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Pending_View.jsx",
+    "content": "Your CCP Number:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Enrollment/Pending_View.jsx",
+    "content": "Payment Screenshot:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/PdfReader.jsx",
+    "content": "Previous"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/PdfReader.jsx",
+    "content": "Page"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/PdfReader.jsx",
+    "content": "Next"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Student_Summaries.jsx",
+    "content": "Loading your summaries..."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Student_Summaries.jsx",
+    "content": "Your Knowledge Hub"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Student_Summaries.jsx",
+    "content": "No Summaries Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Student_Summaries_Card.jsx",
+    "content": "stars"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Student_Summaries_Card.jsx",
+    "content": "Enrollments"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Student_Summaries_Card.jsx",
+    "content": "Pages"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Student_Summaries_Card.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Student_Summaries_Card.jsx",
+    "content": "Created:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Student_Summaries_Card.jsx",
+    "content": "View"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Summary.jsx",
+    "content": "Summary Not Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Summary.jsx",
+    "content": "stars"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Summary.jsx",
+    "content": "Enrollments"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Summary.jsx",
+    "content": "Pages"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Summary.jsx",
+    "content": "Description"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Summary.jsx",
+    "content": "Enroll for free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Summary.jsx",
+    "content": "Buy Now"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Student/Summaries/Summary.jsx",
+    "content": "Summary Reviews"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Contact/Contact.jsx",
+    "content": "Contact the Support"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Contact/Contact.jsx",
+    "content": "Reach out to us for any questions or support, we are here to\n                    help!"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Contact"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Payments"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Courses"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Summaries"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Logout"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Notifications"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Laptop_Nav_Items.jsx",
+    "content": "No Notifications"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Mobile_Nav.jsx",
+    "content": "Notifications"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Mobile_Nav.jsx",
+    "content": "No Notifications"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Contact"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Payments"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Courses"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Summaries"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Logout"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Add_Course.jsx",
+    "content": "Create a New Course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Add_Course.jsx",
+    "content": "Share your knowledge with the world"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Add_Course.jsx",
+    "content": "Course Title"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Add_Course.jsx",
+    "content": "Description"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Add_Course.jsx",
+    "content": "Price"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Add_Course.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Add_Course.jsx",
+    "content": "Category"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Add_Course.jsx",
+    "content": "Creating course?..."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Course Not Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Edit Course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Created:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Enrollments"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Videos"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Description"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Course Meets"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Add New Meeting"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "No Meetings available for this course?."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Course Videos"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Upload Video"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "View"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "No videos available for this course?."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Course.jsx",
+    "content": "Reviews"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Go back"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Edit Course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Remove"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Cancel"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Title"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Describtion"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Price"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Category"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Edit_Course.jsx",
+    "content": "Edit course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Review/Course_Review_Card.jsx",
+    "content": "Delete"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Teacher_Courses.jsx",
+    "content": "No Courses Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Teacher_Courses.jsx",
+    "content": "Add course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Teacher_Courses.jsx",
+    "content": "Add course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Teacher_Courses_Card.jsx",
+    "content": "Enrolled"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Teacher_Courses_Card.jsx",
+    "content": "Videos"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Teacher_Courses_Card.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Teacher_Courses_Card.jsx",
+    "content": "View"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Teacher_Courses_Card.jsx",
+    "content": "Delete"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Upload_Vedio.jsx",
+    "content": "Go back to Course"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Upload_Vedio.jsx",
+    "content": "Upload Course Video"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Upload_Vedio.jsx",
+    "content": "Duration:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Upload_Vedio.jsx",
+    "content": "or click to select a file"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Upload_Vedio.jsx",
+    "content": "Remove File"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Delete Vedio"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Video data is missing"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Delete Vedio"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Your browser does not support the video tag."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Video is not available"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Duration:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Course:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Delete Video"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Course Information"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Category:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Price:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Description:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Rating:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "stars"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Courses/Vedio.jsx",
+    "content": "Number of students:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "Edit Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "Remove"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "Cancel"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "First Name"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "Last Name"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "Email"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "Telephone"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "Instagram Link"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "LinkedIn Link"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "Facebook Link"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Edit_Profile/Teacher_Edit_Profile.jsx",
+    "content": "Edit Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/CourseCard.jsx",
+    "content": "Students"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/CourseCard.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/SummaryCard.jsx",
+    "content": "Students"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/SummaryCard.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/Teacher_Payments.jsx",
+    "content": "Your Purchases"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/Teacher_Payments.jsx",
+    "content": "CCP Information"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/Teacher_Payments.jsx",
+    "content": "Courses Purchased"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/Teacher_Payments.jsx",
+    "content": "Summaries Purchased"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/Teacher_Payments.jsx",
+    "content": "Purchased Courses"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/Teacher_Payments.jsx",
+    "content": "No courses purchased yet"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/Teacher_Payments.jsx",
+    "content": "Purchased Summaries"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Payments/Teacher_Payments.jsx",
+    "content": "No summaries purchased yet"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Profile/Teacher_Profile.jsx",
+    "content": "Teacher Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Profile/Teacher_Profile.jsx",
+    "content": "Edit Profile"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Add_Summary.jsx",
+    "content": "Add Summary"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Add_Summary.jsx",
+    "content": "Title"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Add_Summary.jsx",
+    "content": "Description"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Add_Summary.jsx",
+    "content": "Price"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Add_Summary.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Add_Summary.jsx",
+    "content": "Category"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Add_Summary.jsx",
+    "content": "pages"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Add_Summary.jsx",
+    "content": "or click to select a file"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Add_Summary.jsx",
+    "content": "Remove\n                                        File"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Go back"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Edit Summary"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Remove"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Cancel"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Title"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Describtion"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Price"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Free"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Category"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Edit_Summary.jsx",
+    "content": "Edit Summary"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/PdfReader.jsx",
+    "content": "Full Screen"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Review/Summary_Review_Card.jsx",
+    "content": "Delete"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "Summary Not Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "Edit Summary"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "Created:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "Enrollments"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "Pages"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "Hide Description"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "Show Description"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "Loading..."
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "No file uploaded"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Summary.jsx",
+    "content": "Reviews"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Teacher_Summaries.jsx",
+    "content": "No Summaries Found"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Teacher_Summaries.jsx",
+    "content": "Add Summary"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Teacher_Summaries.jsx",
+    "content": "Add Summary"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Teacher_Summaries_Card.jsx",
+    "content": "Enrolled"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Teacher_Summaries_Card.jsx",
+    "content": "Pages"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Teacher_Summaries_Card.jsx",
+    "content": "View"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Teacher_Summaries_Card.jsx",
+    "content": "Delete"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Upload_Sumarry.jsx",
+    "content": "Pages:"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/components/Teacher/Teacher_Summaries/Upload_Sumarry.jsx",
+    "content": "Remove File"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Laptop_Nav_Items.jsx",
+    "content": "md:hover:text-perpol_v transition-all duration-150 select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Home"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Laptop_Nav_Items.jsx",
+    "content": "md:hover:text-perpol_v transition-all duration-150 select-none"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Our Achievements"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Our Courses"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Contact us"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Login"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Laptop_Nav_Items.jsx",
+    "content": "Sign up"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Sign up"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Log in"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Mobile_Nav_Items.jsx",
+    "content": "How it works?"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Owr goal"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Our features"
+  },
+  {
+    "filePath": "C:/Users/imadb/OneDrive/Bureau/Projects/FLEX EDU/flexedu-Frontend/src/landingPage/NavBar/Mobile_Nav_Items.jsx",
+    "content": "Contact us"
+  }
+]

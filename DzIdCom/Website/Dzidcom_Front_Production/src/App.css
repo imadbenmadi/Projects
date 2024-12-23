@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+    /* font-family: "Outfit", sans-serif; */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    overflow-wrap: normal;
+    transition: 4s;
+    scroll-behavior: smooth;
+}
+input {
+    outline: none;
+    box-sizing: border-box;
+    font: inherit;
+    text-align: left;
+    text-decoration: none;
+}
+textarea {
+    outline: none;
+    box-sizing: border-box;
+    font: inherit;
+    text-align: left;
+    text-decoration: none;
+}
+.loader {
+    width: 20px;
+    height: 20px;
+    border: 3px solid #9da0e3;
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+}
+.small-loader {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #464646; /* Adjust border size as needed */
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+}
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.custom-overflow::-webkit-scrollbar {
+    width: 8px; /* Adjust the width as needed */
+    height: 8px; /* Adjust the width as needed */
+    cursor: pointer;
+}
+
+.custom-overflow::-webkit-scrollbar-thumb {
+    background-color: #9da0e3; /* Change the color as needed */
+    border-radius: 999px; /* Makes the thumb round */
+    cursor: pointer;
+}
+.custom-overflow::-webkit-scrollbar-track {
+    background-color: #ffffff; /* Change the color as needed */
+}
