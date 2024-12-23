@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "no-unused-vars": "off", // Turns off unused variable warnings
+        "no-undef": "error", // Treats undefined variables as errors
+        "no-console": "off" // Allows console statements without warnings
+    },
+    "globals": {
+        "globals": "readonly" // Add the necessary global variables, if any
+    }
+}

@@ -1,0 +1,36 @@
+
+<div
+    className={
+        openNav
+            ? "w-[65%] h-screen   flex items-center justify-center"
+            : "w-[85%]  h-screen flex items-center justify-center"
+    }
+    >
+    <span className="loader"></span>
+</div>
+
+
+----------------
+<div className=" w-screen h-[80vh] flex flex-col items-center justify-center">
+    <span className="loader"></span>
+</div>
+
+
+-------------------
+<span className="small-loader  w-full m-auto"></span>
+
+
+
+import dayjs from "dayjs";
+import customParseFormat from "dayjs/plugin/customParseFormat";
+dayjs.extend(customParseFormat);
+
+{dayjs(rejection?.createdAt).format(
+    "DD MMMM YYYY"
+)}
+
+
+
+{new Date(
+    project.createdAt
+).toLocaleDateString()}
