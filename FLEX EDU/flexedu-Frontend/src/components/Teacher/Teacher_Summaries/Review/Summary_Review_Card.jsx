@@ -1,5 +1,6 @@
 import axios from "axios";
 import Swal from "sweetalert2";
+import React from "react";
 
 const SummaryReviewCard = ({ userId, review, setAllReviews, summaryId }) => {
     const [deleteLoading, setDeleteLoading] = React.useState(false);

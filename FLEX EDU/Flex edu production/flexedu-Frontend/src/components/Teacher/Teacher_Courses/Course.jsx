@@ -36,7 +36,7 @@ function Course() {
     const location = useLocation();
     const courseId = location.pathname.split("/")[3];
     const [showDescription, setShowDescription] = useState(false);
-    const [AllReviews, setAllReviews] = React.useState(false);
+    const [AllReviews, setAllReviews] = useState(false);
 
     useEffect(() => {
         const fetchCourse = async () => {
